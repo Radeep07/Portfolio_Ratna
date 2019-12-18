@@ -204,5 +204,46 @@ textarea{
 .submit-btn:hover {
   opacity: .7;
 }
+.sidebar {
+  float: right;
+  width: 100%;
+  max-width: 270px;
+  padding: 30px;
+  margin-bottom: 20px;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+/* sidebar */
+
+.sidebar {
+  margin-bottom: 30px;
+  margin-top: 30px;
+  float: right;
+  background: #fff;
+  min-width: auto;
+  margin-left: 20px;
+}
+
+h3,
+.sidebar h2 {
+  color: #4aaaa5;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 20px;
+  
+}
+
+
+.social {
+  width: 62px;
+  height: 62px;
+  margin-top: 8px;
+  margin-right: 5px;
+}
+
+.social:last-child {
+  margin-right: 0;
+}
+
 
 /* END CONTACT FORM PAGE */
