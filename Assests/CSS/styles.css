@@ -204,15 +204,7 @@ textarea{
 .submit-btn:hover {
   opacity: .7;
 }
-.sidebar {
-  float: right;
-  width: 100%;
-  max-width: 270px;
-  padding: 30px;
-  margin-bottom: 20px;
-  background: #fff;
-  border: 1px solid #ddd;
-}
+
 /* sidebar */
 
 .sidebar {
@@ -222,23 +214,25 @@ textarea{
   background: #fff;
   min-width: auto;
   margin-left: 20px;
+  height: max-content;
 }
 
 h3,
 .sidebar h2 {
+  margin-top: 30px;
   color: #4aaaa5;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
   font-size: 20px;
   
 }
-
-
 .social {
   width: 62px;
   height: 62px;
   margin-top: 8px;
   margin-right: 5px;
+  margin-left: 15px;
+  margin-bottom: 10px;
 }
 
 .social:last-child {
