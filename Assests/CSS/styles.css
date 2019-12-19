@@ -150,11 +150,14 @@ main {
 
 #port-image {
   
-  height: 190px;
+  height:200px;
+  width: 220px;
+  
   
 }
 .portfolio-item{
   margin: 20px 20px 20px 20px;
+ 
 }
 .image-header{
   position: relative;
